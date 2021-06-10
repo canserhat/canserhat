@@ -3,13 +3,13 @@
 I'm Serhat from Turkey, I have been designing and developing tools in Computer Vision, Image Processing, Medical Image Processing, Machine Learning technologies and systems since 2016
 
 * 5+ years of developing and designing Computer Vision technologies and systems
-* Knowledge in  computer vision, image processing, medical image processing  
+* Knowledge in  computer vision, computer graphics, image processing, medical image processing  
 * Applied machine learning to computer vision problems
 * Participated in cutting edge research in computer vision
 * Highly knowledgeable both theoretical and practical at medical image segmentation algorithms
-* Solid understanding of linear algebra, topology, meshes and 3D
+* Solid understanding of linear algebra, 3D and meshes
 
-* Medical Visualization and Analysis tools 
+* Medical Visualization and Analysis tools (Project)
   * Designed and developed Liver Surgery Planning Software Tools. 
   * 2D and 3D Medical Image Segmentation Algorithm.
   * Automatic and Semi-Automatic Segmentation of Liver and Liver Vascular Structure.
@@ -21,4 +21,7 @@ I'm Serhat from Turkey, I have been designing and developing tools in Computer V
   * 3D Web Based Report
   * Cloud Based Dicom Management Tools in AWS
   * Qt, Visual Studio, VTK, ITK, OpenGL, OpenCV, Tensorflow, Keras, Amazon AWS (C++,C)
+
+ 
+https://user-images.githubusercontent.com/12565110/121587538-9960b600-ca3d-11eb-8c6b-38cf945f74be.mp4
 
