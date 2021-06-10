@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi There,I'm Serhat 👋
 
-I'm Serhat from Turkey, I have been designing and developing tools in Computer Vision, Image Processing, Medical Image Processing, Machine Learning technologies and systems since 2016
+I have been designing and developing tools in Computer Vision, Image Processing, Medical Image Processing, Machine Learning technologies and systems since 2016
 
 * 5+ years of developing and designing Computer Vision technologies and systems
 * Knowledge in  computer vision, computer graphics, image processing, medical image processing  
@@ -35,13 +35,13 @@ https://user-images.githubusercontent.com/12565110/121592252-1d696c80-ca43-11eb-
 
 * Ongoing Projects
 
-  * Medical Visualization and Analysis tools including conventional 2D and 3D DICOM segmentation, rendering and measurements.
+  * Medical Visualization and Analysis tools including conventional 2D and 3D DICOM segmentation, rendering and measurements
 
   * Lung and Vascular Structure Visualization and Analysis Tool in DICOM Images 
       
-    * Automatic segmentation of Lung, Trachea, Nodule and Surgery Planning Tool for Lung. 
+    * Automatic segmentation of Lung, Trachea, Nodule and Surgery Planning Tool
     
-    * Vascular Analysis and Examination Tools.
+    * Vascular Analysis and Examination Tools
 
  
 
