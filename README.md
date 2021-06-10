@@ -2,8 +2,8 @@
 
 I'm Serhat from Turkey, I have been designing and developing tools in Computer Vision, Image Processing, Medical Image Processing, Machine Learning technologies and systems since 2016
 
-## 5+ years of developing and designing Computer Vision technologies and systems
-## Knowledge in  computer vision, image processing, medical image processing  
+# 5+ years of developing and designing Computer Vision technologies and systems
+# Knowledge in  computer vision, image processing, medical image processing  
 ## Applied machine learning to computer vision problems
 ## Participated in cutting edge research in computer vision
 ## Highly knowledgeable both theoretical and practical at medical image segmentation algorithms
