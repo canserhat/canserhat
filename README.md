@@ -23,18 +23,18 @@ I'm Serhat from Turkey, I have been designing and developing tools in Computer V
   * Qt, Visual Studio, VTK, ITK, OpenGL, OpenCV, Tensorflow, Keras, Amazon AWS (C++,C)
 
 
-*Liver Vision Presentation (Medical Project)
+* Liver Vision Presentation (Medical Project)
 
 https://user-images.githubusercontent.com/12565110/121589222-7fc06e00-ca3f-11eb-9c97-4ed83e94ea53.mp4
 
-*AI Module Presentation
+* AI Module Presentation
 
-https://user-images.githubusercontent.com/12565110/121589464-c2824600-ca3f-11eb-9063-fd92748be03d.mp4
+https://user-images.githubusercontent.com/12565110/121590995-aaabc180-ca41-11eb-83a9-113ddab5a361.mp4
 
 
-My Other Project
+* Ongoing Projects
 
-*I have been developing Lung and Vascular Structure Visualization Analysis Tool in DICOM Images 
+* I have been developing Lung and Vascular Structure Visualization Analysis Tool in DICOM Images 
   *Automatic segmentation of lung, Trachea, Nodule and Surgery Planning for Lung. 
   *Vascular Analysis and Examination Tools.
 
