@@ -1,4 +1,4 @@
-### Hi There,I'm Serhat 👋
+### Hi There, I'm Serhat 👋
 
 I have been designing and developing tools in Computer Vision, Image Processing, Medical Image Processing, Machine Learning technologies and systems since 2016
 
