@@ -30,14 +30,16 @@ https://user-images.githubusercontent.com/12565110/121591932-bfd52000-ca42-11eb-
 
 * AI Module Presentation
 
-https://user-images.githubusercontent.com/12565110/121590995-aaabc180-ca41-11eb-83a9-113ddab5a361.mp4
+https://user-images.githubusercontent.com/12565110/121592252-1d696c80-ca43-11eb-880e-60a310db622d.mp4
 
 
 * Ongoing Projects
 
-  * I have been developing Lung and Vascular Structure Visualization Analysis Tool in DICOM Images 
+  * Medical Visualization and Analysis tools including conventional 2D and 3D DICOM segmentation, rendering and measurements.
+
+  * Lung and Vascular Structure Visualization and Analysis Tool in DICOM Images 
       
-    * Automatic segmentation of Lung, Trachea, Nodule and Surgery Planning for Lung. 
+    * Automatic segmentation of Lung, Trachea, Nodule and Surgery Planning Tool for Lung. 
     
     * Vascular Analysis and Examination Tools.
 
