@@ -7,7 +7,7 @@ I have been designing and developing tools in Computer Vision, Image Processing,
 * Applied machine learning to computer vision problems
 * Participated in cutting edge research in computer vision
 * Highly knowledgeable both theoretical and practical at medical image segmentation algorithms
-* Solid understanding of linear algebra, 3D and meshes
+* Solid understanding of linear algebra, 3D Model and Meshes
 
 * Medical Visualization and Analysis tools (Project)
   * Designed and developed Liver Surgery Planning Software Tools. 
