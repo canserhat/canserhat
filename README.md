@@ -23,5 +23,7 @@ I'm Serhat from Turkey, I have been designing and developing tools in Computer V
   * Qt, Visual Studio, VTK, ITK, OpenGL, OpenCV, Tensorflow, Keras, Amazon AWS (C++,C)
 
  
-https://user-images.githubusercontent.com/12565110/121587538-9960b600-ca3d-11eb-8c6b-38cf945f74be.mp4
+https://user-images.githubusercontent.com/12565110/121588004-10964a00-ca3e-11eb-9c62-2a9a8695146a.mp4
+
+
 
