@@ -35,7 +35,8 @@ https://user-images.githubusercontent.com/12565110/121590995-aaabc180-ca41-11eb-
 * Ongoing Projects
 
   * I have been developing Lung and Vascular Structure Visualization Analysis Tool in DICOM Images 
-    * Automatic segmentation of lung, Trachea, Nodule and Surgery Planning for Lung. 
+      
+    * Automatic segmentation of Lung, Trachea, Nodule and Surgery Planning for Lung. 
     * Vascular Analysis and Examination Tools.
 
  
