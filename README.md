@@ -22,7 +22,6 @@ I'm Serhat from Turkey, I have been designing and developing tools in Computer V
   * Cloud Based Dicom Management Tools in AWS
   * Qt, Visual Studio, VTK, ITK, OpenGL, OpenCV, Tensorflow, Keras, Amazon AWS (C++,C)
 
- 
 
 *Liver Vision Presentation (Medical Project)
 
@@ -33,7 +32,13 @@ https://user-images.githubusercontent.com/12565110/121589222-7fc06e00-ca3f-11eb-
 https://user-images.githubusercontent.com/12565110/121589464-c2824600-ca3f-11eb-9063-fd92748be03d.mp4
 
 
+My Other Project
 
+*I have been developing Lung and Vascular Structure Visualization Analysis Tool in DICOM Images 
+  *Automatic segmentation of lung, Trachea, Nodule and Surgery Planning for Lung. 
+  *Vascular Analysis and Examination Tools.
+
+ 
 
 
 
