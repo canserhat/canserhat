@@ -13,14 +13,14 @@ I have been designing and developing tools in Computer Vision, Image Processing,
   * Designed and developed Liver Surgery Planning Software Tools. 
   * 2D and 3D Medical Image Segmentation Algorithm.
   * Automatic and Semi-Automatic Segmentation of Liver and Liver Vascular Structure.
-  * Deep Learning Module with Tensor Flow
+  * Deep Learning Module
   * 3D Model View and Manipulation Tools
   * Surgical Planning System
   * Medical Image Rendering
   * DICOM and PACS system 
   * 3D Web Based Report
   * Cloud Based Dicom Management Tools in AWS
-  * Qt, Visual Studio, VTK, ITK, OpenGL, OpenCV, Tensorflow, Keras, Amazon AWS (C++,C)
+  * Qt, Visual Studio, VTK, ITK, OpenGL, OpenCV, Tensorflow, Keras, Amazon AWS (C++,C,Python)
 
 
 * Liver Vision Presentation (Medical Project)
