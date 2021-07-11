@@ -43,8 +43,8 @@ https://user-images.githubusercontent.com/12565110/121592252-1d696c80-ca43-11eb-
     
     * Automatic segmentation of Lung, Trachea, Nodule and Surgery Planning Tool
     
-   
-
+* Master Thesis   
+[a link] (https://dspace.ankara.edu.tr/xmlui/bitstream/handle/20.500.12575/68810/529765.pdf?sequence=1&isAllowed=y)
  
 
 
