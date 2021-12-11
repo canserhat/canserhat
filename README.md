@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/12565110/121592252-1d696c80-ca43-11eb-
 
 * Ongoing Projects
 
-  * Medical Visualization and Analysis tools including conventional and specific purpose 2D and 3D DICOM segmentation, rendering and measurements
+  * Medical Visualization and Analysis tools including conventional and specific purpose 2D,3D DICOM Image segmentation, rendering and analysis tools.
 
   * Lung and Vascular Structure Visualization and Analysis Tool in DICOM Images 
       
